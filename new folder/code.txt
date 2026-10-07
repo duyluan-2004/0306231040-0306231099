@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-xin chao nguyen duy luan
-=======
 hellow world
 xin chao bui thanh dat
 xin chao nguyen duy luan
->>>>>>> 09070d21d6ea53b5fd4eb5d631799db02439f655
